@@ -1,6 +1,6 @@
 # IIR and FIR filter design using MATLAB
 
-### By Soroosh Tayebi Arasteh
+### By Soroosh Tayebi Arasteh | سروش طیبی آراسته
 
 [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/starasteh/filter_design/pulls)
