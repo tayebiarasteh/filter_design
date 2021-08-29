@@ -1,6 +1,6 @@
 %Created on June 2016.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function [y,ny] = conv_m(x,nx,h,nh)
 % Modified convolution routine for signal processing

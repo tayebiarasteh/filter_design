@@ -1,6 +1,6 @@
 %Created on June 2016.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function [y,n] = sigmult(x1,n1,x2,n2)
 % implements y(n) = x1(n)*x2(n)

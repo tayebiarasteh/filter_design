@@ -1,6 +1,6 @@
 %Created on June 2016.
 
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 function [xe, xo, m] = evenodd(x,n)
 % Real signal decomposition into even and odd parts

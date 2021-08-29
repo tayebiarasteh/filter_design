@@ -1,7 +1,7 @@
 %Created on June 2016.
 
 %@author: Soroosh Tayebi Arasteh <soroosh.arasteh@fau.de>
-%https://github.com/starasteh/
+%https://github.com/tayebiarasteh/
 %%
 clear all
 clc
